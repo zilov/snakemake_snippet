@@ -1,3 +1,4 @@
 .snakemake
 config
 test/test_output
+__pycache__
